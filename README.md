@@ -10,7 +10,7 @@ B3D-Plt is a Python-based application designed to process and analyze Excel file
 1. Download the B3D-Plt application from the repository depending on your system
 2. Open the B3D-Plt application
 
-<img align="center" src="/B3D-Plt/ressource/B3D-Plt.png">
+<img align="center" src="/B3D-Plt/ressource/B3D-Plt.png](https://github.com/Bioloc3D/B3D-Plt/blob/main/ressource/B3D-Plt.png">
 
 3. Click "Load file" and select the folder where Excel files produced by B3D-Img
 4. Click "Save file" and select a folder where the results will be saved
