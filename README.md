@@ -1,6 +1,6 @@
 <h1><img align="center" height="80" src="https://github.com/Bioloc3D/B3D-Plt/blob/main/ressource/logo.ico"> B3D-Plt</h1>
 
-![Version](https://img.shields.io/badge/B3D--Plt-v1.1-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) [![License](https://img.shields.io/badge/license-GPLv3-blue)](https://spdx.org/licenses/GPL-3.0-or-later.html)
+![Version](https://img.shields.io/badge/B3D--Plt-v1.0.0-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) [![License](https://img.shields.io/badge/license-GPLv3-blue)](https://spdx.org/licenses/GPL-3.0-or-later.html)
 
 ## 📝 Description  
 B3D-Plt is a Python-based application designed to process and analyze Excel files produced by the Fiji B3D-Img plugin. It is one of the two components of the [Bioloc3D toolset](https://github.com/orgs/Bioloc3D/repositories), an advanced and user-friendly 3D fluorescence imaging analysis solution. This application permits the analysis of Excel files created by the [B3D-Img plugin](https://github.com/Bioloc3D/B3D-Img), and produces [dabest](https://github.com/ACCLAB/DABEST-python) estimation plots.
