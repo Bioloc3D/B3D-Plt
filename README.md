@@ -8,7 +8,7 @@ B3D-Plt is a Python-based application designed to process and analyze Excel file
 
 ## 📌 Installation and operating instructions  
 
-1. Download the B3D-Plt application from the repository depending on your system
+1. Download the B3D-Plt application from "Releases" section in the repository depending on your system.
    - For macOS, unzip the file and drag/drop the .app in your system's "Applications" folder.
 3. Open the B3D-Plt application
 
