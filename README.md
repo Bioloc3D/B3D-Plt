@@ -12,7 +12,7 @@ B3D-Plt is a Python-based application designed to process and analyze Excel file
    - For macOS, unzip the file and drag/drop the .app in your system's "Applications" folder
 3. Open the B3D-Plt application
 
-<img align="center" src="./resources/Interface.png" height="300">
+<img align="center" src="./resources/Interface.png" width="300">
 
 3. Click "Load file" and select the folder where Excel files produced by B3D-Img
 4. Click "Save file" and select a folder where the results will be saved
@@ -22,7 +22,7 @@ B3D-Plt is a Python-based application designed to process and analyze Excel file
 8. Click "Launch analysis" and wait...
 9. A pop-up window appears when the analysis is finished
 
-<img align="center" src="./resources/popup.png" height="300">
+<img align="center" src="./resources/popup.png" width="300">
 
 ## 🚀 Contributing
 If you’d like to contribute, feel free to fork the repository and submit a pull request.
